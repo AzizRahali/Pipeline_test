@@ -16,7 +16,7 @@ services:
       - tp-foyer-network
 
   tp-foyer:
-    image: melekhomrani/tp-foyer:1.0.0
+    image: azizrahali01/tp-foyer:1.0.0
 #    build:
 #      context: ./
 #      dockerfile: Dockerfile
